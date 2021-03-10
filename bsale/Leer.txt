@@ -1,0 +1,18 @@
+Gracias por el tiempo de espera, pero no pude finalizar el proyecto completo se que estan buscando un full stack Junior, aunque soy un front end Junior, 
+puse todo mi conocimiento en esta prueba, NO PUDE TERMINAR EL CARRITO DE COMPRAS siento que me falta alguien que me oriente.
+
+
+El programa esta dividido en varios documentos.
+
+Estilo: css/style.css
+Imagenes: img/imagenes
+Carrito de compra: js/carrito.js
+Peticion con AJAX: peticion.js
+Consulta a la base de datos: consulta.php
+Conexion a la base de datos: bd.php
+Pagina principal: index.php
+Base de datos: bsale_test.sql
+
+
+
+Usuarios y clave de la base de datos: User root, clave 20533992
